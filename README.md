@@ -1,6 +1,7 @@
 # Eventex
 Sistema de Eventos enconmendado pela Morena
 
+[![Build Status](https://travis-ci.org/guilhermeasena32/eventex.svg?branch=master)](https://travis-ci.org/guilhermeasena32/eventex)
 
 ## Como desenvolver?
 1. Clone o repositório
