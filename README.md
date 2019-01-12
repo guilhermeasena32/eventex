@@ -12,10 +12,10 @@ Sistema de Eventos enconmendado pela Morena
 6. Execute os testes.
 ```console
 git clone https://github.com/guilhermeasena32/eventex.git
-cd wttd
+cd eventex
 python3 -m venv .wttd
 source .wttd/bin/activate
-pip3 install -r requirements.txt
+pip3 install -r requirements-dev.txt
 cp contrib/env-sample .env
 python3 manage.py test
 ```
